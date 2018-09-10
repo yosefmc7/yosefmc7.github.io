@@ -1,0 +1,28 @@
+body{
+    background-color:#f4f4f4f4;
+    color:#555555; 
+    
+    font: normal 20px Arial, Helvetica, sans-serif;
+    font-family:'Montserrat', sans-serif;
+ 
+    list-style: height 1.6em;
+    margin:0; 
+}
+
+.container{
+    width:80%;
+    margin:auto;
+}
+
+.box-1{
+    background-color:white
+    color:blue;
+
+    border: 5px black solid;
+
+    padding:20px;
+
+margin:60px;
+
+
+}
